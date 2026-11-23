@@ -11,9 +11,6 @@
 </p>
 
 </div>
-
-<img src="./vecteezy_line-dividers-decoration_18246093.png" alt="" width="100%" />
-
 ## 👨‍💻 About me
 
 - 🌍 Full stack developer based in Israel
@@ -49,8 +46,6 @@
     <img src="https://streak-stats.demolab.com?user=AMPlaying&hide_border=true" alt="AMPlaying's GitHub contribution streak" />
   </picture>
 </div>
-
-<img src="./vecteezy_line-dividers-decoration_18246093.png" alt="" width="100%" />
 
 <div align="center">
   <sub>Thanks for stopping by ⭐</sub>
